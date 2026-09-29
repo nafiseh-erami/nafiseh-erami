@@ -25,6 +25,6 @@ My MSc project explores heterogeneous transfer learning for intrusion detection 
 ### 🛠️ Technologies
 Python • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • Jupyter
 
----
+
 
 ⭐ Thanks for visiting my profile!
