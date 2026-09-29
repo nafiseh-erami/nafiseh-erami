@@ -1,4 +1,4 @@
-# Hi, I'm Nafiseh Erami 👋
+# Hi, I'm Nafiseh Erami
 
 MSc Data Science & AI student at the University of Liverpool
 
