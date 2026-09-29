@@ -1,6 +1,6 @@
 # Hi, I'm Nafiseh Erami 👋
 
-🎓 MSc Data Science & AI student at the University of Liverpool
+MSc Data Science & AI student at the University of Liverpool
 
 ### 🔬 Research Interests
 - Artificial Intelligence
