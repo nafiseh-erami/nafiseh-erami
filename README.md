@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nafiseh Erami 👋
 
-<!--
-**nafiseh-erami/nafiseh-erami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science & AI student at the University of Liverpool
 
-Here are some ideas to get you started:
+### 🔬 Research Interests
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI Agents
+- Machine Learning
+- Deep Learning
+- Transfer Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Areas of Interest
+- Large Language Models and AI Agents
+- Generative AI
+- Machine Learning & Deep Learning
+- Transfer Learning
+- AI for Cybersecurity
+
+### 📚 MSc Dissertation
+**Heterogeneous Transfer Learning for Intrusion Detection in Wireless Sensor Networks**
+
+My MSc project explores heterogeneous transfer learning for intrusion detection when labelled data in the target domain is limited.
+
+### 🛠️ Technologies
+Python • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • Jupyter
+
+---
+
+⭐ Thanks for visiting my profile!
